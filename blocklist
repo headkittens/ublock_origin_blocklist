@@ -1,0 +1,43 @@
+! YouTube
+! Youtube Video preview shit
+www.youtube.com##div#video-preview
+www.youtube.com##div#hover-overlays
+www.youtube.com##div#mouseover-overlay
+
+! kill YouTube Shorts
+www.youtube.com##div#contents.style-scope.ytd-rich-grid-renderer > ytd-rich-section-renderer.style-scope.ytd-rich-grid-renderer
+
+! kill Youtube AI summary
+www.youtube.com###expandable-metadata
+
+! Misc YouTube that I've forgotten and need to re-test
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
+www.youtube.com##div#content.style-scope.ytd-rich-item-renderer > ytd-ad-slot-renderer.style-scope.ytd-rich-item-renderer
+www.youtube.com#@#div#items.style-scope.ytd-guide-section-renderer > ytd-guide-entry-renderer.style-scope.ytd-guide-section-renderer
+
+! Fandom
+fandom.com###WikiaBar
+fandom.com###WikiaRailWrapper
+fandom.com###mixed-content-footer
+fandom.com##.global-navigation
+fandom.com##.page__right-rail
+fandom.com##.wds-global-footer
+fandom.com##.instant-suggestion
+fandom.com##.marketplace.unified-search__result
+wikia.org##.is-wikia-org.global-navigation
+wikia.org##.notifications-placeholder
+wikia.org###WikiaBar
+wikia.org###mixed-content-footer
+fandom.com###highlight__main-container
+fandom.com##.pathfinder-wrapper
+fandom.com##.notifications-placeholder
+fandom.com##.global-footer
+fandom.com###age-gate
+fandom.com##.global-explore-navigation
+! This one below stops the shift to accomodate the annoying sidebar to keep you on Fandom
+fandom.com#$#.main-container { margin-left: 0 !important; width: 100% !important; }
+
+! Google
+! Google Accounts Prompt
+accounts.google.com/gsi/*
+google.com##.hdzaWe
