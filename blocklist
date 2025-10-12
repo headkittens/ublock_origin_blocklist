@@ -14,6 +14,8 @@ www.youtube.com###expandable-metadata
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
 www.youtube.com##div#content.style-scope.ytd-rich-item-renderer > ytd-ad-slot-renderer.style-scope.ytd-rich-item-renderer
 www.youtube.com#@#div#items.style-scope.ytd-guide-section-renderer > ytd-guide-entry-renderer.style-scope.ytd-guide-section-renderer
+www.youtube.com##div#items.style-scope.ytd-guide-section-renderer > ytd-guide-entry-renderer.style-scope.ytd-guide-section-renderer
+www.youtube.com##div#items.style-scope.ytd-mini-guide-renderer > ytd-mini-guide-entry-renderer.style-scope.ytd-mini-guide-renderer
 
 ! Fandom
 fandom.com###WikiaBar
