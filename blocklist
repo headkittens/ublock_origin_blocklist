@@ -41,5 +41,13 @@ fandom.com##.global-explore-navigation
 fandom.com#$#.main-container { margin-left: 0 !important; width: 100% !important; }
 
 ! Google
-! Google Accounts Prompt
+! Remove Google Accounts Prompt Pop-over (like on Reddit)
 accounts.google.com/gsi/*
+! Remove Google AI Overview
+www.google.com##div#rcnt.YNk70c.NbTBrb.GyAeWb > div.bzXtMb.M8OgIe.dRpWwb
+
+! Aliexpress
+! Remove annoying browser notification prompt
+www.aliexpress.com##html > body > div > div._3KrBP
+! remove pop-over on home page
+www.aliexpress.com##body > div:nth-of-type(7)
