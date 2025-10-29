@@ -8,4 +8,6 @@ Current sites covered:
 - AliExpress
 
 Future sites:
-X maybe, my list is out of date because I don't use X anymore
+- X maybe, my list is out of date because I don't use X anymore
+- Patreon, for their recommendation algorithm
+- News sites, especially Guardian for their nag-ads
