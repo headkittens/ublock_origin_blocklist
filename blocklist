@@ -49,5 +49,9 @@ www.google.com##div#rcnt.YNk70c.NbTBrb.GyAeWb > div.bzXtMb.M8OgIe.dRpWwb
 ! Aliexpress
 ! Remove annoying browser notification prompt
 www.aliexpress.com##html > body > div > div._3KrBP
+
+! Patreon
+! Recommended Artists
+www.patreon.com##main#renderPageContentWrapper.sc-2d43881a-0.jOYHuI > div.sc-1eb99e10-0.kPybys
 ! remove pop-over on home page
 www.aliexpress.com##body > div:nth-of-type(7)
