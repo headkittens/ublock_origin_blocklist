@@ -10,6 +10,9 @@ www.youtube.com##div#contents.style-scope.ytd-rich-grid-renderer > ytd-rich-sect
 ! kill Youtube AI summary
 www.youtube.com###expandable-metadata
 
+# Remove Explore More Section in search
+www.youtube.com##div#contents.style-scope.ytd-item-section-renderer > ytd-shelf-renderer.style-scope.ytd-item-section-renderer
+
 ! Misc YouTube that I've forgotten and need to re-test
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
 www.youtube.com##div#content.style-scope.ytd-rich-item-renderer > ytd-ad-slot-renderer.style-scope.ytd-rich-item-renderer
