@@ -7,8 +7,11 @@ www.youtube.com##div#mouseover-overlay
 ! kill YouTube Shorts
 www.youtube.com##div#contents.style-scope.ytd-rich-grid-renderer > ytd-rich-section-renderer.style-scope.ytd-rich-grid-renderer
 
-! kill Youtube AI summary
+! Remove AI summary
 www.youtube.com###expandable-metadata
+
+! Remove AI video sumamry
+www.youtube.com###video-summary
 
 ! Remove Explore More Section in search
 www.youtube.com##div#contents.style-scope.ytd-item-section-renderer > ytd-shelf-renderer.style-scope.ytd-item-section-renderer
